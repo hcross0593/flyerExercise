@@ -1,14 +1,34 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Ada Lovelace Day</title>
+<title>Happy Ada Lovelace Day</title>
 <meta charset="utf-8" />
+<link href='http://fonts.googleapis.com/css?family=Berkshire+Swash' rel='stylesheet' type='text/css'>
+<style>
+body {
+	font-size:100%
+	font-family:'Berkshire Swash', cursive;
+}
+#MainContent {
+	float: right;
+	width: 80%;
+}
+</style>
 </head>
 <body>
-The Society for Women in Science, Technology, Engineering and Math wishes you a happy Ada Lovelace Day!
+<div id="MainContent">
+<section id="HappyAdaLovelaceDay!" class="TopLevel">
+	<h1>The Society for Women in Science, Technology, Engineering and Math wishes you a</h1>
+	<em>Happy Ada Lovelace Day!</em>
+</div>
+<div id="ContactInfo">
+<section id="ContactInformation" class="TopLevel">
+	<h4>Today 10/16 from 12pm-1pm in Merion room 174</h4>
+</div>
+</section>
 
-Ada Lovelace, daughter of romantic poet Lord Byron, was the first computer programmer, designing an algorithm for Charles Babbage's hypothetical Analytical Engine in 1842. Her work would later influence Alan Turing as he worked on the fundamentals of modern computing a century later. 
+<p>Ada Lovelace, daughter of romantic poet Lord Byron, was the first computer programmer, designing an algorithm for Charles Babbage's hypothetical Analytical Engine in 1842. Her work would later influence Alan Turing as he worked on the fundamentals of modern computing a century later.</p> 
 
-We are hosting a lunchtime seminar called, "Geeking out: Women Passionate about Computer Science." today from 12pm-1pm in Merion room 174 in honor of Ada. 
+<p>Today 10/16 from 12pm-1pm in Merion room 174</p> <p>We are hosting a lunchtime seminar called</p> <p>"Geeking out: Women Passionate about Computer Science."</p> <p>In honor of Ada</p> 
 </body>
 </html>	
